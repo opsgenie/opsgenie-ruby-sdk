@@ -1,0 +1,1 @@
+# opsgenie-ruby-sdk *beta*
