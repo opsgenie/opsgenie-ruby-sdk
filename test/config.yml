@@ -1,9 +1,9 @@
 env: development
 
 development:
-   apiKey: bc799e5c-90e2-49eb-b6a6-85d2e721c1f9
-   user: selcuk.bozdag@gmail.com
-   team: ruby_sdk
-   recipient: System
-   attachedfile: /home/selcuk/opsgenie/test.zip
-   hbapiKey: 362f09cc-650f-4def-abc2-4281b5101937
+   apiKey: your_api_key
+   user: your_OpsGenie_user
+   team: your_team
+   recipient: another_OpsGenie_user
+   attachedfile: path_to_sample_file
+   hbapiKey: your_heartbeat_api_key
